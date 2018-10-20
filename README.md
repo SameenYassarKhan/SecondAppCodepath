@@ -1,2 +1,2 @@
 # SecondAppCodepath
-![alt text](https://imgur.com/a/BCI7JHi)
+![alt text](https://github.com/SameenYassarKhan/SecondAppCodepath/blob/master/Second%20App.gif)
